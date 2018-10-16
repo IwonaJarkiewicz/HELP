@@ -1,0 +1,2 @@
+# HELP
+Pomoc SIMPLE.ERP
